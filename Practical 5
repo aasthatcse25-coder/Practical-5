@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Resume</title>
+</head>
+
+<body>
+
+<h1 align="center">My Resume</h1>
+
+<!-- Image -->
+<img src="profile.jpg" alt="My Photo" width="150" height="150">
+
+<h2>Personal Information</h2>
+<ul>
+<li>Name: Aastha Tiwari</li>
+<li>Email: aasthat.cse25@sbjit.edu.in</li>
+<li>Phone: 9876543210</li>
+</ul>
+
+<h2>Education</h2>
+
+<!-- Table -->
+<table border="1">
+<tr>
+<th>Qualification</th>
+<th>College/School</th>
+<th>Year</th>
+<th>Percentage</th>
+</tr>
+
+<tr>
+<td>HSC</td>
+<td>sfs College</td>
+<td>2025</td>
+<td>71%</td>
+</tr>
+
+<tr>
+<td>SSC</td>
+<td> P.G.H.S High School</td>
+<td>2023</td>
+<td>87%</td>
+</tr>
+</table>
+
+<h2>Skills</h2>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Basic JavaScript</li>
+<li>Computer Networking</li>
+</ul>
+
+<h2>Hobbies</h2>
+<ul>
+<li>Gaming</li>
+<li>dancing</li>
+<li>Traveling</li>
+</ul>
+
+<h2>My Website</h2>
+
+<!-- Hyperlink -->
+<a href="https://www.linkedin.com" target="_blank">Visit My LinkedIn Profile</a>
+
+</body>
+</html>
