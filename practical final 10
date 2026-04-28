@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Practical 10</title>
+</head>
+<body>
+<h2>Aastha tiwari</h2>
+<h2>CS25073</h2>
+
+<a href="https://www.example.com" target="MYFRAME">My Website</a>
+<a href="https://www.programiz.com/c-programming/online-compiler/" target="MYFRAME">Online Compiler</a>
+<a href="https://wikipedia.org" target="MYFRAME">Wikipedia</a>
+<a href="https://www.google.com/search?igu=1" target="MYFRAME">Google</a>
+
+<iframe 
+name="MYFRAME" 
+width="100%" 
+height="400"
+style="border: 1px solid #ccc;">
+</iframe>
+
+</body>
+</html>
